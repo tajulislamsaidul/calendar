@@ -66,7 +66,7 @@ Here are a few holidays recognized in this calendar:
 
 ## 📸 Screenshots
 
-![Calendar UI](https://via.placeholder.com/600x350?text=Calendar+UI+Preview)
+![Calendar UI](https://github.com/tajulislamsaidul/calendar/blob/99a16de98104b10f12e867cfc8df675f6b35cc65/DEMO.png)
 
 ---
 
